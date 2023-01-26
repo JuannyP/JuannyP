@@ -1,5 +1,5 @@
 ### JPosada
-🙋🏻‍♀️ Hi I'm Juanny, an aspiring data analyst and welcome to my SQL Portfolio!
+🙋🏻‍♀️ Hi I'm Juanny, an aspiring data analyst. Welcome to my SQL Portfolio!
  
 👩🏻‍💻 I would love to share my projects as I am acquiring knowledge in SQL. Examples of SQL I've written can be found in the "SQL" respository.
 
